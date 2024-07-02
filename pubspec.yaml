@@ -36,7 +36,7 @@ dependencies:
   hive: ^2.2.3
   hive_flutter:
   dynamic_color: ^1.7.0
-  #location: ^7.0.0
+  location: ^7.0.0
   get: ^4.6.6
   permission_handler: ^11.3.1
   url_launcher:
