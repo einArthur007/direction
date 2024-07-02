@@ -1,0 +1,1 @@
+/home/arthur/.pub-cache/hosted/pub.dev/location-7.0.0/android/src/main/java/com/lyokone/location/FlutterLocationService.kt
